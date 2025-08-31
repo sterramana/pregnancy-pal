@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-typescript",
+  "version": "1.0.0",
+  "description": "A simple Hello World project in TypeScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@dataconnect/generated": "file:src/dataconnect-generated"
+  }
+}
