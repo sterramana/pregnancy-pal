@@ -1,4 +1,5 @@
-# Generated TypeScript README
+git init
+git remote add origin https://github.com/sterramana/pregnancy-pal.git# Generated TypeScript README
 This README will guide you through the process of using the generated JavaScript SDK package for the connector `example`. It will also provide examples on how to use your generated SDK to call your Data Connect queries and mutations.
 
 ***NOTE:** This README is generated alongside the generated SDK. If you make changes to this file, they will be overwritten when the SDK is regenerated.*
