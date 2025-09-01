@@ -20,9 +20,6 @@
       "dataDir": "dataconnect/.dataconnect/pgliteData"
     }
   },
-  "dataconnect": {
-    "source": "dataconnect"
-  },
   "hosting": {
     "public": "public",
     "ignore": [
